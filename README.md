@@ -105,4 +105,4 @@ data processing logic suitable for both beginners and intermediate practitioners
 
 #OUTPUT
 
-[data.csv](https://github.com/user-attachments/files/20666593/data.csv)
+![data.csv](https://github.com/user-attachments/files/20666629/data.csv)
